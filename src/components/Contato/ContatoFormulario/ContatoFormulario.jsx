@@ -1,5 +1,6 @@
 import "./ContatoFormulario.css"
 
+
 function ContatoFormulario(){
     return(
         <>
@@ -24,6 +25,7 @@ function ContatoFormulario(){
                 <button className="col-2">Enviar mensagem</button>
             </form>
         </section>
+        
         </>
     )
 }

@@ -36,7 +36,7 @@ function Footer() {
                 <a href="#">contato@bikcraft.com</a>
               </li>
               <li>
-                <a href="#">Rua Ali Perto, 42 - Itacorubi</a>
+                <a href="#">Rua  Ipe Amarelo, 42 - Centro</a>
               </li>
               <li>
                 <a href="#">Florianópolis - SC</a>

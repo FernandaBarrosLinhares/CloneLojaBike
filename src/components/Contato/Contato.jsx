@@ -1,11 +1,12 @@
 import ".Contato.css";
-import ContatoFormulario from "./Contat0/ContatoFormulario/ContatoFormulario";
+import ContatoFormulario from "./Contato/ContatoFormulario/ContatoFormulario.jsx";
 
 
 function Contato(){
     return(
         <>
         <div className="contato container">
+           
             <section className="contato-dados">
                 <h2>Loja OnLine</h2>
                 <div className="contato-endereco">
@@ -38,8 +39,14 @@ function Contato(){
                     />
                  </a> 
                 </div>
+            
             </section>
-            <ContatoFormulario/>
+            
+             <ContatoFormulario/>
+
+          
+
+            
         </div>
         </>
     )
