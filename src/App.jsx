@@ -2,7 +2,7 @@ import './index.css'
 import Header from './components/Header/Header.jsx';
 import Footer from './components/Footer/Footer.jsx';
 // import CardBike from './components/CardBike'
-import Contato from './Contato.jsx';  // Caminho corrigido
+import Contato from './Contato.jsx';  
 import TituloContato from "./components/Contato/TituloContato/TituloContato.jsx";
 
 function App() {
