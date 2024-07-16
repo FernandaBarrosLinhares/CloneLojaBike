@@ -1,20 +1,3 @@
-// import './Footer.css'
-
-// function Footer(){
-//     return(
-//         <>
-//         <footer className='footer-container'>
-//             <div className= "footer-container">
-//             <img src="https://www.origamid.com/projetos/bikcraft/img/bikcraft.svg" alt="Bikcraft"></img>
-//             </div>
-//         </footer>
-//         </>
-//     )
-// }
-
-// export default Footer
-
-
 import "./Footer.css";
 
 function Footer() {
