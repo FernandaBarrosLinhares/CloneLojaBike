@@ -1,0 +1,18 @@
+.card-titulo {
+    width: 100%;
+    max-width: 1200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-titulo h2 {
+    margin-bottom: 30px;
+    font-size: 4rem;
+    text-align: left;
+}
+
+.card-titulo h2 span {
+    color: #ffbb00;
+}
