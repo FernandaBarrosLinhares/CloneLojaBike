@@ -4,7 +4,7 @@ Clone pagína https://www.origamid.com/projetos/bikcraft/contato.html
 
 <img alt="Tela1" src="src/assets/bike1.jpg">
 <img alt="Tela2" src="src/assets/bike2.jpg">
-
+<img alt="Tela3" src="src/assets/bike3.jpg">
 ### Exercício curso Futuro DEV, semana 06, módulo 2
 
 ## Tecnologia ultilizadas
